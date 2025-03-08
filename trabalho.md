@@ -6,7 +6,6 @@
 ### Introdução
 A gestão de configuração de software é essencial para controlar versões e alterações nos artefatos de um projeto. 
 Neste trabalho, será abordada a criação de um repositório usando a ferramenta Git, 
-com foco na governança de TI e seu impacto nas áreas de ITIL, COBIT e ESG. 
 A criação do repositório permite o armazenamento seguro de artefatos, como código e documentos, ao longo do ciclo de vida do software.
 
 ### Desenvolvimento
