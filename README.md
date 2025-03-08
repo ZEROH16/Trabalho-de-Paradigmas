@@ -8,6 +8,6 @@ Este repositório contém os arquivos relacionados ao trabalho de **Paradigmas e
 - `trabalho.md` → Documento principal com o conteúdo do trabalho.
 
 ## 🚀 Como Usar
-1. Clone o repositório para sua máquina:
+1. Clone o repositórioo para sua máquina:
    ```sh
    git clone https://github.com/seu-usuario/trabalho-paradigmas.git
