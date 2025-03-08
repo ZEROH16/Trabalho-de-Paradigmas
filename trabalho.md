@@ -10,7 +10,7 @@ com foco na governança de TI e seu impacto nas áreas de ITIL, COBIT e ESG.
 A criação do repositório permite o armazenamento seguro de artefatos, como código e documentos, ao longo do ciclo de vida do software.
 
 ### Desenvolvimento
-Escolha da Ferramenta:
+Escolha de uma Ferramenta:
 Escolhi a ferramenta Git, que foi instalada e configurada a partir do site oficial.
 
 Criação do Repositório:

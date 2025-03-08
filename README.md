@@ -5,7 +5,7 @@ Este repositório contém os arquivos relacionados ao trabalho de **Paradigmas e
 
 ## 📂 Estrutura do Repositório
 - `README.md` → Documentação inicial do projeto.
-- `trabalho.md` → Documento principal com o conteúdo do trabalho.
+- `trabalho.md` → Documento principal com so conteúdos do trabalho.
 
 ## 🚀 Como Usar
 1. Clone o repositórioo para sua máquina:
