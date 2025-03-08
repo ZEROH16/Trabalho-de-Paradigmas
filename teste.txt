@@ -1,0 +1,4 @@
+Requisito do Sistema:
+
+O sistema deve permitir que o usuário faça login utilizando e-mail e senha.
+A interface deve ser intuitiva e responsiva, adaptando-se a dispositivos móveis.
